@@ -66,6 +66,7 @@ AFJP Cripto presenta un modelo innovador de sistema de jubilación que utiliza t
 - **Pagos**: Paga alquileres, servicios médicos o farmacéuticos con **tokens JUVENTUD** mediante código QR o dirección pública.
 - **Calculadora de Descuentos**: Calcula descuentos en medicamentos ingresando su precio.
 - **Información de Beneficiarios**: Visualiza o modifica los detalles de los beneficiarios de tokens.
+- **Newslater Mensual**: Podras obtener las noticias de como rindio tus tokens mensualmente y las novedades de lo mismo.
 
 ## Acerca de
 Este proyecto es un MVP desarrollado para el **Midnight Hackathon Buenos Aires 2025**, que presenta un sistema de jubilación descentralizado basado en tecnología blockchain.
