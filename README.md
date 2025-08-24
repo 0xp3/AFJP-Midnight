@@ -80,12 +80,7 @@ AFJP Cripto presenta un modelo innovador de sistema de jubilación que utiliza t
 
 - **Cardano Ecosystem Integration**: Midnight se integra con Cardano como partner chain, aprovechando infraestructura robusta de seguridad y stake pool operators para asegurar consenso y producción de bloques.
 
-## Frontend - Internet Computer Protocol (ICP)
-- **IC Canisters (Motoko / Rust)**: Los componentes frontend y la lógica pública de interacción con usuarios se despliegan en ICP como “canisters”, proporcionando experiencia de usuario descentralizada, inmediata y confiable.
-
-- **WebAssembly**: ICP usa WASM para ejecutar código en canisters con alta eficiencia y escalabilidad, permitiendo UI web modernas y rápidas.
-
-- **Secure API Gateway**: Comunicación entre frontend ICP y backend Midnight vía APIs seguras con validación criptográfica, manejadas en TypeScript para asegurar integridad y privacidad.
+## Frontend
 
 - **JavaScript / TypeScript**: Para desarrollo frontend, gestión de estado y llamadas a backend se usa un stack moderno basado en TypeScript, facilitando mantenimiento y escalabilidad.
 
