@@ -1,3 +1,7 @@
+Introducción: Presentamos un modelo revolucionario de AFJP basado en criptomonedas, que combina tokens de jubilación, inversión en bolsa y proyectos inmobiliarios. Cada aporte genera tokens que representan el ahorro para la jubilación, con un submercado para comprar y vender tokens, y beneficios exclusivos para afiliados.
+
+Este sistema busca ofrecer una jubilación más segura, flexible y rentable, con la posibilidad de jubilación anticipada y acceso a beneficios inmobiliarios, todo gestionado a través de una billetera virtual.
+
 Tutorial:
 Crear tu billetera:
 1) Instalar la wallet de Lace
