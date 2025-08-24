@@ -68,5 +68,35 @@ AFJP Cripto presenta un modelo innovador de sistema de jubilación que utiliza t
 - **Información de Beneficiarios**: Visualiza o modifica los detalles de los beneficiarios de tokens.
 - **Newslater Mensual**: Podras obtener las noticias de como rindio tus tokens mensualmente y las novedades de lo mismo.
 
+### Tech Stack
+## Backend - Midnight Blockchain
+- **Midnight Network**: Plataforma blockchain de cuarta generación enfocada en privacidad racional y protección de datos sensibles. Usa pruebas de conocimiento cero (zero-knowledge proofs, ZKPs) para garantizar confidencialidad sin sacrificar trazabilidad.*
+
+- **Compact Programming Language**: Lenguaje propio basado en TypeScript para definir y desplegar contratos inteligentes enfocados en privacidad. Maneja la lógica del staking, validaciones privadas y mecanismos anti-whale con seguridad avanzada.
+
+- **Zero-Knowledge Cryptography**: zkSNARKs y protocolos criptográficos avanzados para validar operaciones sin exponer datos sensibles, cumpliendo con normativas y protegiendo información.
+
+- **Dual Token System**: NIGHT (token de gobernanza y staking) y DUST (recurso para pago de transacciones y ejecución de contratos), con modelos diseñados para sostenibilidad económica y seguridad operacional.
+
+- **Cardano Ecosystem Integration**: Midnight se integra con Cardano como partner chain, aprovechando infraestructura robusta de seguridad y stake pool operators para asegurar consenso y producción de bloques.
+
+## Frontend - Internet Computer Protocol (ICP)
+- **IC Canisters (Motoko / Rust)**: Los componentes frontend y la lógica pública de interacción con usuarios se despliegan en ICP como “canisters”, proporcionando experiencia de usuario descentralizada, inmediata y confiable.
+
+- **WebAssembly**: ICP usa WASM para ejecutar código en canisters con alta eficiencia y escalabilidad, permitiendo UI web modernas y rápidas.
+
+- **Secure API Gateway**: Comunicación entre frontend ICP y backend Midnight vía APIs seguras con validación criptográfica, manejadas en TypeScript para asegurar integridad y privacidad.
+
+- **JavaScript / TypeScript**: Para desarrollo frontend, gestión de estado y llamadas a backend se usa un stack moderno basado en TypeScript, facilitando mantenimiento y escalabilidad.
+
+## Herramientas y Librerías
+- **Express**: Framework backend Node.js para manejar autenticación, middleware y endpoints API en integración con Midnight.
+
+- **jsonwebtoken**: Para manejo y verificación segura de JWT que protegen las rutas y validan usuarios.
+
+- **Axios**: Cliente HTTP usado para comunicación segura desde frontend hacia backend Midnight, con manejo avanzado de errores y tokens.
+
 ## Acerca de
 Este proyecto es un MVP desarrollado para el **Midnight Hackathon Buenos Aires 2025**, que presenta un sistema de jubilación descentralizado basado en tecnología blockchain.
+
+
