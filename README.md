@@ -1,55 +1,71 @@
-Introducción: Presentamos un modelo revolucionario de AFJP basado en criptomonedas, que combina tokens de jubilación, inversión en bolsa y proyectos inmobiliarios. Cada aporte genera tokens que representan el ahorro para la jubilación, con un submercado para comprar y vender tokens, y beneficios exclusivos para afiliados.
+# AFJP Cripto - Sistema de Jubilación Basado en Criptomonedas
 
-Este sistema busca ofrecer una jubilación más segura, flexible y rentable, con la posibilidad de jubilación anticipada y acceso a beneficios inmobiliarios, todo gestionado a través de una billetera virtual.
+## Introducción
+AFJP Cripto presenta un modelo innovador de sistema de jubilación que utiliza tecnología blockchain, integrando tokens de ahorro jubilatorio, inversiones en bolsa y oportunidades en bienes raíces tokenizados. Cada aporte genera **tokens AFJP**, que representan los ahorros para la jubilación, los cuales pueden intercambiarse en un submercado dedicado. La plataforma ofrece beneficios exclusivos para afiliados, como acceso a propiedades tokenizadas (RWA), opciones de jubilación anticipada y un sistema de jubilación seguro, flexible y rentable gestionado a través de una billetera virtual.
 
-Tutorial:
-Crear tu billetera:
-1) Instalar la wallet de Lace
-2) Hacer click en el botón "Conectar Lace Wallet para Acceder a AFJP Cripto".
-3) Hacer click en el botón "Crear nueva billetera".
-5) Ingresar los datos personales y hacer click en "Completar Registro AFJP Cripto".
-4) Guardar una copia de la frase memotécnica y la contraseña ingresada.
-Iniciar sesión: 
-1) Hacer click en el botón "Conectar Lace Wallet para Acceder a AFJP Cripto".
-2) Ingresar contraseña. (En caso de que la hayas olvidado hacer click en "Restablecer billetera" e ingresar tu frase memotécnica). (En caso de querer ingresar desde un nuevo dispositivo seleccionar "Importar Wallet" e ingresar tu frase memotécnica).
+## Características Principales
+- **Ahorro Jubilatorio**: Obtén **tokens AFJP** mediante aportes, los cuales permanecen bloqueados por 5 años (vesting). Posteriormente, pueden venderse, intercambiarse por **tokens LADRILLO** (bienes raíces) o **JUVENTUD** (alquileres), o mantenerse para la jubilación.
+- **Bienes Raíces Tokenizados**: Compra fracciones de propiedades con **tokens LADRILLO** y obtén ingresos proporcionales por alquileres. Alquila propiedades con **tokens JUVENTUD**.
+- **Mercado**: Compra, vende o intercambia tokens (AFJP, LADRILLO, JUVENTUD) con dinero fiat, criptomonedas u otros tokens.
+- **Beneficios Exclusivos**: Accede a beneficios inmobiliarios, farmacéuticos y turísticos para afiliados activos.
+- **Herencia de Tokens**: Designa billeteras beneficiarias para la herencia de tokens en caso de fallecimiento del usuario.
 
-Funcionalidades principales:
-Una vez que hayas ingresado a la plataforma el usuario podrá seleccionar el idioma de preferencia desde el botón superior derecho junto al botón "Cerrar Sesión".
-La página principal es la primera opción del menú y muestra un resumen de tus tokens principales (AFJP), su valor actual, las ganancias obtenidas y el precio de cada token principal.
-A continuación muestra una serie de estadísticas propias de la plataforma y sus usuarios.
-A continuación se muestran las estadísticas del total de cada una de las tokens de la plataforma.
-A continuación se muestran 3 botones:
-El primero permite al usuario ingresar tokens "AFJP", y podrá optar entre la contribución mensual mínima o la cantidad que desee comprar. Los tokens quedarán en su cuenta (vesting) durante 5 años, para luego liberarse, permitiendo al usuario venderlo, intercambiarlo por tokens "LADRILLO" de compra de propiedades tokenizadas (RWA), y alquiler de inmuebles "JUVENTUD".
-Con los tokens "LADRILLO" el usuario puede comprar propiedades listadas en la opción "Mercado" del menú. Puede comprar una fracción del inmueble y cobrar el porcentaje proporcional del alquiler del mismo cuando sea alquilado.
-Con los tokens "JUVENTUD" el usuario puede acceder a alquilar propiedades tokenizadas (RWA).
-El segundo botón permite al usuario comprar token "LADRILLO" con tokens "AFJP" que no estén en "vesting" y con dinero FIAT, ya sea a otro usuario o a la plataforma directamente. También le permite vender tokens "AFJP" y "LADRILLO" a otros usuarios.
-El botón de Beneficios dirige a la última opción del menú.
-A continuación se muestra una lista de las transacciones recientes de la billetera.
-Por último figuran noticias generales de la plataforma, y el usuario puede ver los artículos al hacerles click.
+## Primeros Pasos
 
-Aportes:
-La segunda opción del menú muestra en primer lugar estadísticas propias del usuario y de su billetera.
-En segundo lugar muestra el historial de tokens de jubilación (AFJP) compradas por el usuario.
-En último lugar figura el formulario que permite al usuario comprar Tokens AFJP con dinero FIAT.
+### Crear tu Billetera
+1. Instala la extensión o aplicación de **Lace Wallet**.
+2. Haz clic en **"Conectar Lace Wallet para Acceder a AFJP Cripto"** en la plataforma.
+3. Selecciona **"Crear Nueva Billetera"**.
+4. Ingresa tus datos personales y haz clic en **"Completar Registro AFJP Cripto"**.
+5. Guarda de forma segura tu frase mnemotécnica y contraseña.
 
-Mercado:
-La tercera opción del menú permite al usuario ver estadísticas en tiempo real del token AFJP.
-En la pestaña "Comprar Tokens" el usuario puede comprar tokens con moneda local, dólares y criptomonedas.
-También permite al usuario comprar tokens LADRILLO con las que puede comprar RWA independientemente de que esté realizando aportes jubilatorios o no.
-En la pestaña "Vender Tokens" el usuario puede intercambiar sus tokens AFJP por dólares, pesos, o cualquier moneda que se disponga en la red.
-En la pestaña "Intercambio" el usuario puede intercambiar sus tokens AFJP por LADRILLO y JUVENTUD.
-En la pestaña "Crédito" el usuario puede pedir un préstamo congelando tokens que sirven de garantía y seleccionar el plazo en el cual deberá pagar las cuotas del mismo.
+### Iniciar Sesión
+1. Haz clic en **"Conectar Lace Wallet para Acceder a AFJP Cripto"**.
+2. Ingresa tu contraseña.
+   - Si la olvidaste, haz clic en **"Restablecer Billetera"** e ingresa tu frase mnemotécnica.
+   - Para acceder desde un nuevo dispositivo, selecciona **"Importar Billetera"** e ingresa tu frase mnemotécnica.
 
-Inmuebles:
-La cuarta opción del menú muestra los beneficios actuales para los afiliados.
-A continuación el usuario podrá ver un listado de todos los RWA que se encuentran a la venta o en alquiler y seleccionar la opción de compra o alquiler según sus intereses. También podrá ver los detalles de cada inmueble.
-A continuación el usuario tendrá la opción de suscribirse a un newsletter donde le llegará información relativa a sus intereses sobre nuevas propiedades y beneficios.
+## Funcionalidades de la Plataforma
 
-Turismo:
-La quinta opción del menú está disponible solo para los afiliados. Aquí el usuario puede reservar un inmueble de su interés luego de seleccionar las fechas en el almanaque que se despliega al hacer click en el botón "Reservar Ahora" correspondiente.
+### Panel Principal
+- **Selección de Idioma**: Elige tu idioma preferido desde el menú superior derecho, junto al botón **"Cerrar Sesión"**.
+- **Resumen de Tokens**: Muestra tus **tokens AFJP**, su valor actual, ganancias obtenidas y el precio por token.
+- **Estadísticas de la Plataforma**: Visualiza estadísticas generales de la plataforma y sus usuarios, seguidas de estadísticas totales de todos los tokens de la plataforma.
+- **Botones de Acción**:
+  1. **Aportar Tokens AFJP**: Elige entre el aporte mensual mínimo o una cantidad personalizada. Los tokens quedan bloqueados por 5 años (vesting), luego pueden venderse, intercambiarse por **tokens LADRILLO** o **JUVENTUD**, o mantenerse.
+  2. **Comprar Tokens LADRILLO**: Usa **tokens AFJP** desbloqueados o dinero fiat para adquirir **tokens LADRILLO** de otros usuarios o de la plataforma. También permite vender **tokens AFJP** o **LADRILLO** a otros usuarios.
+  3. **Beneficios**: Navega a la sección de Beneficios para acceder a ventajas exclusivas.
+- **Transacciones Recientes**: Consulta el historial de transacciones de tu billetera.
+- **Noticias de la Plataforma**: Lee actualizaciones y artículos haciendo clic en las noticias.
 
-Beneficios:
-La última opción del menú permite al contribuyente activo conocer sus beneficios inmobiliarios y farmacéuticos, y a todos los usuarios les permite designar billeteras que sirvan de herederas de los tokens en caso de que el usuario fallexca sin haber hecho uso de los mismos. La opción Tokens lleva a la tercera opción del menú (Mercado).
-A continuación el usuario encontrará la opción de pagar alquileres y servicios médicos y farmacéuticos con sus tokens JUVENTUD, ya sea mediante un código QR o copiando y pegando el address publico del destinatario y gozar de los beneficios en caso de que le correspondan.
-A continuación se muestra una herramienta con la cual el usuario puede calcular el porcentaje de descuento ingresando el precio del medicamento.
-Por último se muestra información relativa a los tokens que recibiría el beneficiario en caso de que el titular falleciera, y un botón para modificar el beneficiario.
+### Aportes
+- **Estadísticas del Usuario**: Visualiza estadísticas personalizadas de tu billetera y aportes.
+- **Historial de Tokens AFJP**: Revisa el historial de **tokens AFJP** comprados.
+- **Formulario de Compra**: Adquiere **tokens AFJP** con dinero fiat.
+
+### Mercado
+- **Estadísticas en Tiempo Real**: Monitorea el rendimiento de los **tokens AFJP**.
+- **Comprar Tokens**: Adquiere **tokens AFJP** o **LADRILLO** con moneda local, dólares o criptomonedas.
+- **Vender Tokens**: Intercambia **tokens AFJP** por dinero fiat (dólares, pesos, etc.).
+- **Intercambio de Tokens**: Cambia **tokens AFJP** por **tokens LADRILLO** o **JUVENTUD**.
+- **Crédito**: Solicita un préstamo bloqueando tokens como garantía y selecciona el plazo de pago.
+
+### Inmuebles
+- **Beneficios para Afiliados**: Explora los beneficios inmobiliarios actuales para afiliados.
+- **Listado de Propiedades**: Consulta propiedades tokenizadas (RWA) disponibles para compra o alquiler, con detalles específicos.
+- **Compra/Alquiler**: Compra fracciones de propiedades con **tokens LADRILLO** o alquila con **tokens JUVENTUD**.
+- **Suscripción a Newsletter**: Regístrate para recibir actualizaciones sobre nuevas propiedades y beneficios.
+
+### Turismo (Solo Afiliados)
+- **Reserva de Propiedades**: Selecciona fechas en el calendario y haz clic en **"Reservar Ahora"** para reservar una propiedad.
+
+### Beneficios
+- **Ventajas para Afiliados**: Accede a beneficios inmobiliarios, farmacéuticos y médicos para afiliados activos.
+- **Herencia de Tokens**: Designa billeteras beneficiarias para la herencia de tokens.
+- **Enlace al Mercado**: Navega a la sección **Mercado** para transacciones de tokens.
+- **Pagos**: Paga alquileres, servicios médicos o farmacéuticos con **tokens JUVENTUD** mediante código QR o dirección pública.
+- **Calculadora de Descuentos**: Calcula descuentos en medicamentos ingresando su precio.
+- **Información de Beneficiarios**: Visualiza o modifica los detalles de los beneficiarios de tokens.
+
+## Acerca de
+Este proyecto es un MVP desarrollado para el **Midnight Hackathon Buenos Aires 2025**, que presenta un sistema de jubilación descentralizado basado en tecnología blockchain.
